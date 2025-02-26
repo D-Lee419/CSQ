@@ -3,4 +3,4 @@ This is the repository of the paper *A Chinese Science Question dataset with Ric
 
 We uploaded the Science Skills Framework. The CSQ dataset will be released after our paper is online, until then any queries can be directed to us at leed@mails.ccnu.edu.cn
 
-- 02.26  We updata the CSQ dataset and removed low-quality data.
+- 02.26  We update the CSQ dataset and removed low-quality data.
